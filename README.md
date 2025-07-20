@@ -10,14 +10,14 @@ This website is a supplement to [this extension](https://github.com/rahulk64/iss
 
 ## Authors
 
-* **Amit Joshi** - *Main ISS Feed Developer* - [amitjoshi2724](https://github.com/amitjoshi24)
+* **Amit Joshi** - *Main ISS Feed Developer* - [amitjoshi2724](https://github.com/amitjoshi2724)
 * **Rahul Krishnan** - *Feed Assistance* - [rahulk64](https://github.com/rahulk64)
 * **Ashwin Kudva** - *Project Originator* - [shwinay](https://github.com/shwinay)
 
 ### Extension Authors
 
 * **Santiago Cortes** - *Quote Scraping* - [sntgC](https://github.com/sntgC)
-* **Ansh Jain** - *Image Generation* - [Gamebot3](https://github.com/Gamebot3)
+* **Ansh Jain** - *Image Generation* - [Gamebot2](https://github.com/Gamebot2)
 * **Ashwin Kudva** - *Quote Generation, UI* - [shwinay](https://github.com/shwinay)
 * **Amit Joshi** - *ISS Feed Management* - [amitjoshi2724](https://github.com/amitjoshi2724)
 * **Rahul Krishnan** - *UI Development* - [rahulk64](https://github.com/rahulk64)
